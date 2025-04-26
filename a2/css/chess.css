@@ -1,5 +1,7 @@
 body {
-	font-family:"Architects Daughter";
+	font-family: 'ArchitectsDaughterRegular';
+	font-weight: normal;
+        font-style: normal;
 	font-size: 36px;
 	background-image:linear-gradient(#deebff, #ffa8fb);
 	height:100vh;
