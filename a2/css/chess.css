@@ -34,6 +34,11 @@ body {
 	margin-bottom:10px;
 	background-color:#ffa5fc;
 }
+footer{
+	text-align:center;
+	margin-top:25px;
+  	background-color:#ffa5;
+}
 #container{
 	 margin-top:5%;
  margin-left:20%;
